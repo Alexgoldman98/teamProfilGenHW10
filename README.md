@@ -30,4 +30,4 @@ Email address: alexgoldman98@gmail.com
 Any Questions should be directed to me using the above contact information.
 
 ### Screenshots
-![code refactor](Assets/SS1.png)
+![code refactor](02-Homework/Assets/SS1.png)
